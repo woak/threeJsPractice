@@ -1,0 +1,26 @@
+{
+  "name": "threejsPractice",
+  "version": "1.0.0",
+  "description": "Three js tutorial   Author: Teddy Laurita Github: https://github.com/woak",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woak/threeJsPractice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/woak/threeJsPractice/issues"
+  },
+  "homepage": "https://github.com/woak/threeJsPractice#readme",
+  "dependencies": {
+    "three": "^0.103.0"
+  }
+}
